@@ -106,3 +106,4 @@ venv.bak/
 # this project
 *.txt
 *.model
+/vec/
