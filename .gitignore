@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# this project
+*.txt
+*.model
+/vec/
+*.pickle
+*.npy
+*.bin
